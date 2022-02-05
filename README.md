@@ -23,7 +23,7 @@ C/C++, STL, boost, ATL/MFC, COM+, MSMQ, C#, .Net, JavaScript, Java, Win32/64, Li
 ## CAREER HISTORY 
 
 - Meta, March 2021 – to present, Senior Software Engineer: 
-Remote Presence Core team: working on server-side handling calls (both audio and video) and live streaming for all Meta products (Facebook, Instagram, Android and iOS clients, Portal, etc.) 
+Remote Presence Core team: real-time communication platform across Meta family of products. Working on server-side - calls and live streaming handling.
 
 - Tableau Software, May 2017 – March 2021, Senior Software Engineer: 
 Advanced Analytics team: worked on enabling Tableau products (Desktop, Server, Online, DataPrep) to be able to use scripting languages and third-party data science solutions (Python, R, Salesforce Einstein, DataRobot, Ople.ai, Jupyter, etc.)  
