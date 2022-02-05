@@ -6,28 +6,28 @@ Kirkland, WA
 
 ## HIGHLIGHTS 
 
-- Designed and implemented analytics extensions for Tableau products to be able to extend with scripting languages and third-party data science solution. 
+Designed and implemented analytics extensions for Tableau products to be able to extend with scripting languages and third-party data science solution. 
 
-- Maintainer and the main developer for open-source TabPy server. (https://github.com/tableau/TabPy) which allows to extend Tableau with Python scripts. 
+Maintainer and the main developer for open-source TabPy server. (https://github.com/tableau/TabPy) which allows to extend Tableau with Python scripts. 
 
-- Was driving technical work to enable analytics extensions for Tableau Online, successfully shipped. 
+Was driving technical work to enable analytics extensions for Tableau Online, successfully shipped. 
 
-- Developed and maintained frameworks, tools and libraries to add new and support existing payment methods and flows for GoDaddy. 
+Developed and maintained frameworks, tools and libraries to add new and support existing payment methods and flows for GoDaddy. 
 
-- Worked on performance optimization for bing query handling distributed services. 
+Worked on performance optimization for Bing query handling distributed services. 
 
 ## TECHNICAL SKILLS 
 
-C/C++, STL, boost, ATL/MFC, COM+, MSMQ, C#, .Net, JavaScript, Java, Win32/64, Linix, AIX, shell, Python, Hack/PHP, MS SQL, Jenkins, Mercurial, git, svn, TFS 
+C/C++, C#, .NET, JavaScript, Java, Win32/64, Linux, AIX, shell, Python, Hack/PHP, MS SQL 
 
 ## CAREER HISTORY 
 
 - Meta, March 2021 – to present, Senior Software Engineer: 
-Remote Presence Core team: real-time communication platform across Meta family of products. Working on server-side - calls and live streaming handling.
+Remote Presence Core team: real-time communication platform across Meta family of products. Working on server-side - calls and live streaming handling. 
 
 - Tableau Software, May 2017 – March 2021, Senior Software Engineer: 
 Advanced Analytics team: worked on enabling Tableau products (Desktop, Server, Online, DataPrep) to be able to use scripting languages and third-party data science solutions (Python, R, Salesforce Einstein, DataRobot, Ople.ai, Jupyter, etc.)  
-Designed and implemented most of the functionality for the feature (architecture, protocols, security and authorization, logging/telemetry, deploying, monitoring, etc.) Maintaining an open-source TabPy server which allows extend Tableau calculations with Python (https://github.com/tableau/TabPy). 
+Designed and implemented most of the functionality for the feature (architecture, protocols, security and authorization, logging/telemetry, deploying, monitoring, etc.) Maintaining an open-source TabPy server which allows extend Tableau calculations with Python. 
 Technologies: Windows, Linux, MacOS, C++, Qt, Java, Python, JavaScript, AWS (EC2, Lambda, CloudWatch, Route 53), TypeScript, PostgreSQL. 
 
 - GoDaddy, 2014 – May 2017, Senior Software Developer:  
