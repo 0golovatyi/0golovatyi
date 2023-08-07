@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "start": "npm install && npm run build",
+        "build": "resume export index.html --theme even"
+    },
+    "dependencies": {
+        "jsonresume-theme-even": "^0.18.1",
+        "resume-cli": "^3.0.8"
+    }
+}
