@@ -6,11 +6,7 @@
         "email": "olekg(at)outlook.com",
         "phone": "(425) 502-1510",
         "url": "http://cv.golovatyi.info",
-        "summary": "HIGHLIGHTS\n\n• Was key contributor to initial design and implementation for mesh key-value storage with automatic conflict resolutions (internally used by Anduril’s core services).\n• Brought performance and stability improvements to calls livestreaming (Facebook, Messenger, Instagram), added support for SCTP as media data channel (audio/video in calls), designed and driven project to monitor and measure bandwidth usage in a call. 
-        
-        - Maintainer and the main developer for open-source TabPy server (https://github.com/tableau/TabPy) which allows to extend Tableau with Python scripts, designed and implemented analytics extensions for Tableau products to be able to extend with scripting languages and third-party data science solution. 
-        
-        - Was driving technical work to enable analytics extensions for Tableau Online, successfully shipped.",
+        "summary": "HIGHLIGHTS\n\n• Was key contributor to initial design and implementation for mesh key-value storage with automatic conflict resolutions (internally used by Anduril's core services).\n\n• Brought performance and stability improvements to calls livestreaming (Facebook, Messenger, Instagram), added support for SCTP as media data channel (audio/video in calls), designed and driven project to monitor and measure bandwidth usage in a call.\n\n• Maintainer and the main developer for open-source TabPy server (https://github.com/tableau/TabPy) which allows to extend Tableau with Python scripts, designed and implemented analytics extensions for Tableau products to be able to extend with scripting languages and third-party data science solution.\n\n• Was driving technical work to enable analytics extensions for Tableau Online, successfully shipped.",
         "location": {
             "countryCode": "US",
             "address": "United States",
