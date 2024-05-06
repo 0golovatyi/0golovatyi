@@ -4,9 +4,9 @@ Kirkland, WA
 
 425-502-1510 | oleksandr.golovatyi@hotmail.com | https://www.linkedin.com/in/ogolovatyi/ 
 
-## HIGHLIGHTS 
+## STAFF SOFTWARE ENGINEER 
 
-- Was key contributor to initial design and implementation for mesh key-value storage with automatic conflict resolutions (internally used by Anduril’s core services). 
+- Key contributor to initial design and implementation for mesh key-value storage with automatic conflict resolutions (internally used by Anduril’s core services). 
 
 - Brought performance and stability improvements to calls livestreaming (Facebook, Messenger, Instagram), added support for SCTP as media data channel (audio/video in calls), designed and driven project to monitor and measure bandwidth usage in a call. 
 
@@ -28,7 +28,9 @@ Kirkland, WA
 
 ## CAREER HISTORY 
 
-- **Anduril Industries**, January 2023 – Present, Senior Software Engineer:
+- **Swarm Aero**, September 2023 - Present, Staff Software Engineer.
+
+- **Anduril Industries**, January 2023 – August 2023, Senior Software Engineer:
 Helix Team: planning and tasking functionality for Command and Control for LatticeOS (https://www.anduril.com/lattice/). Highly distributed system to coordinate and task autonomous robots. 
 Technologies: Linux, Go. 
 
